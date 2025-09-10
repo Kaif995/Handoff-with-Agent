@@ -1,4 +1,4 @@
-# 🤖 Multi-Agent Assistant
+# 🤖 Multi-Agent Assistant  
 
 This repository contains a Python example demonstrating how to create a multi-agent assistant system using the Gemini API and the `agents` library. The system includes specialized agents for Medical and Computer Science assistance, with a main agent that can hand off tasks to these specialized agents.
 
@@ -46,5 +46,6 @@ python main.py
   ```
 ## 👨‍💻 Author
 Kaif Shamim Crafted with curiosity and code.
+
 
 
