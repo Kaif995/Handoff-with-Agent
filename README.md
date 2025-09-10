@@ -11,7 +11,7 @@ This repository contains a Python example demonstrating how to create a multi-ag
   - Main Assistant that delegates tasks.
 - Asynchronous execution with `asyncio`.
 - Environment variable support for API keys and base URL.
-- Easy to extend with additional agents and handoffs.
+- Easy to extend with additional agents and handoffs. 
 
 ## Requirements
 
@@ -46,4 +46,5 @@ python main.py
   ```
 ## 👨‍💻 Author
 Kaif Shamim Crafted with curiosity and code.
+
 
